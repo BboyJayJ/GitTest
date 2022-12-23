@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MeetJob_Rent.props" />
+</Project>
